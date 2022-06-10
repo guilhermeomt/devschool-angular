@@ -7,6 +7,10 @@ MJV School - Angular
 
 Repositório destinado para o curso de desenvolvimento de aplicações web com Angular da [MJV School](https://www.mjv.com.br/).
 
+## Materiais
+
+- [Primeiras Aulas](https://github.com/NathanCarlos/turma-devschool-angular-pt-br/blob/master/primeiras-aulas.md)
+
 ## Exercícios
 
 - [x] [Primeiras Aulas](./01-primeiras-aulas)
