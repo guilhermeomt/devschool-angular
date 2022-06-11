@@ -1,0 +1,18 @@
+section {
+  margin-top: 20px;
+  height: calc(100vh - 494px);
+  padding: 20px;
+  border-radius: 5px;
+  text-align: center;
+
+  div {
+    margin-top: 12px;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+
+    p {
+      width: 15rem;
+    }
+  }
+}
