@@ -11,8 +11,10 @@ Repositório destinado para o curso de desenvolvimento de aplicações web com A
 
 - 1\. [Primeiras Aulas](https://github.com/NathanCarlos/turma-devschool-angular-pt-br/blob/master/primeiras-aulas.md)
 - 2.1\. [Componentes](https://github.com/NathanCarlos/turma-devschool-angular-pt-br/blob/master/componentes.md)
+- 2.2\. [Módulos e Data Binding](https://github.com/NathanCarlos/turma-devschool-angular-pt-br/blob/master/modulos-e-data-binding.md)
 
 ## Exercícios
 
 - [x] [Primeiras Aulas](./01-primeiras-aulas)
 - [x] [Componentes](./02-componentes)
+- [x] [Módulos](./02-modulos)
