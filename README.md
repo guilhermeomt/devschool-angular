@@ -2,19 +2,25 @@
 <img src="https://mir-s3-cdn-cf.behance.net/projects/404/a6056b142520019.Y3JvcCw1MDUsMzk1LDE1MSwxMTg.jpeg" alt="MJV"
   width="250" height="150" />
 <br />
-MJV School - Angular
+MJV School - Angular (Módulo de TypeScript)
 </h1>
 
-Repositório destinado para o curso de desenvolvimento de aplicações web com Angular da [MJV School](https://www.mjv.com.br/).
+Esta branch contém todo o código-fonte dos exercícios e materias de TypeScript para o curso de desenvolvimento de aplicações web com Angular da [MJV School](https://www.mjv.com.br/). Caso queira ver o código-fonte dos projetos de Angular, [clique aqui](https://github.com/guilhermeomt/devschool-angular).
 
 ## Materiais
 
-- 1\. [Primeiras Aulas](https://github.com/NathanCarlos/turma-devschool-angular-pt-br/blob/master/primeiras-aulas.md)
-- 2.1\. [Componentes](https://github.com/NathanCarlos/turma-devschool-angular-pt-br/blob/master/componentes.md)
-- 2.2\. [Módulos e Data Binding](https://github.com/NathanCarlos/turma-devschool-angular-pt-br/blob/master/modulos-e-data-binding.md)
+- 1\. [Introdução](https://github.com/alanjhonnes/devschool-typescript-videos/blob/main/src/introducao.md)
+- 2\. [Instalação e Configuração](https://github.com/alanjhonnes/devschool-typescript-videos/blob/main/src/instalacao-configuracao.md)
+- 3\. [Tipos Básicos](https://github.com/alanjhonnes/devschool-typescript-videos/blob/main/src/tipos-basicos.md)
+- 4\. [Tipagem de Objetos](https://github.com/alanjhonnes/devschool-typescript-videos/blob/main/src/tipagem-objetos.md)
+- 5\. [Tipagem de Arrays](https://github.com/alanjhonnes/devschool-typescript-videos/blob/main/src/tipagem-arrays.md)
+- 6\. [Tipagem de Funções](https://github.com/alanjhonnes/devschool-typescript-videos/blob/main/src/tipagem-funcoes.md)
+- 7\. [Enums](https://github.com/alanjhonnes/devschool-typescript-videos/blob/main/src/enums.md)
+- 8\. [Unions](https://github.com/alanjhonnes/devschool-typescript-videos/blob/main/src/unions.md)
+- 9\. [Modificadores](https://github.com/alanjhonnes/devschool-typescript-videos/blob/main/src/modificadores.md)
+- 10\. [Tipos Literais](https://github.com/alanjhonnes/devschool-typescript-videos/blob/main/src/tipos-literais.md)
+- 11\. [Classes](https://github.com/alanjhonnes/devschool-typescript-videos/blob/main/src/classes.md)
 
 ## Exercícios
 
-- [x] [Primeiras Aulas](./01-primeiras-aulas)
-- [x] [Componentes](./02-componentes)
-- [x] [Módulos](./02-modulos)
+- [x] [TypeScript Básico](./ts-basico)
