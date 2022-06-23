@@ -18,3 +18,4 @@ Repositório destinado para o curso de desenvolvimento de aplicações web com A
 - [x] [Primeiras Aulas](./01-primeiras-aulas)
 - [x] [Componentes](./02-componentes)
 - [x] [Módulos](./02-modulos)
+- [x] [Data Binding](./03-data-binding)
