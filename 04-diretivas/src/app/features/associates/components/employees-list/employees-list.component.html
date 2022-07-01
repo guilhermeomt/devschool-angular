@@ -1,0 +1,25 @@
+<section>
+  <h2>Colaboradores</h2>
+
+  <button (click)="showEmployeeDetails()">
+    {{
+      showEmployee
+        ? "Ocultar detalhes de colaboradores"
+        : "Mostrar detalhes de colaboradores"
+    }}
+  </button>
+  <ul *ngIf="showEmployee">
+    <li
+      *ngFor="let employee of employees"
+      [ngClass]="{
+        'border-default': employee.id % 2 === 0,
+        'border-primary': employee.id % 2 === 1
+      }"
+    >
+      <p><strong>Id:</strong> {{ employee.id }}</p>
+      <p><strong>Nome: </strong> {{ employee.name }}</p>
+      <p><strong>Salário:</strong> {{ employee.salary }}</p>
+      <p><strong>Cargo: </strong> {{ employee.job }}</p>
+    </li>
+  </ul>
+</section>

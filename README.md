@@ -10,8 +10,9 @@ Repositório destinado para o curso de desenvolvimento de aplicações web com A
 ## Materiais
 
 - 1\. [Primeiras Aulas](https://github.com/NathanCarlos/turma-devschool-angular-pt-br/blob/master/primeiras-aulas.md)
-- 2.1\. [Componentes](https://github.com/NathanCarlos/turma-devschool-angular-pt-br/blob/master/componentes.md)
-- 2.2\. [Módulos e Data Binding](https://github.com/NathanCarlos/turma-devschool-angular-pt-br/blob/master/modulos-e-data-binding.md)
+- 2\. [Componentes](https://github.com/NathanCarlos/turma-devschool-angular-pt-br/blob/master/componentes.md)
+- 3\. [Módulos e Data Binding](https://github.com/NathanCarlos/turma-devschool-angular-pt-br/blob/master/modulos-e-data-binding.md)
+- 4\. [Diretivas](https://github.com/NathanCarlos/turma-devschool-angular-pt-br/blob/master/directive.md)
 
 ## Exercícios
 
@@ -19,3 +20,4 @@ Repositório destinado para o curso de desenvolvimento de aplicações web com A
 - [x] [Componentes](./02-componentes)
 - [x] [Módulos](./02-modulos)
 - [x] [Data Binding](./03-data-binding)
+- [x] [Diretivas](./04-diretivas)
