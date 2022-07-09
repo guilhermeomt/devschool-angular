@@ -1,0 +1,8 @@
+.layout {
+  display: flex;
+  flex-direction: column;
+
+  & > .list {
+    height: calc(100vh - 153px);
+  }
+}

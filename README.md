@@ -13,6 +13,7 @@ Repositório destinado para o curso de desenvolvimento de aplicações web com A
 - 2\. [Componentes](https://github.com/NathanCarlos/turma-devschool-angular-pt-br/blob/master/componentes.md)
 - 3\. [Módulos e Data Binding](https://github.com/NathanCarlos/turma-devschool-angular-pt-br/blob/master/modulos-e-data-binding.md)
 - 4\. [Diretivas](https://github.com/NathanCarlos/turma-devschool-angular-pt-br/blob/master/directive.md)
+- 5\. [Pipes e Routing](https://github.com/NathanCarlos/turma-devschool-angular-pt-br/blob/master/pipes-routing.md)
 
 ## Exercícios
 
@@ -21,3 +22,4 @@ Repositório destinado para o curso de desenvolvimento de aplicações web com A
 - [x] [Módulos](./02-modulos)
 - [x] [Data Binding](./03-data-binding)
 - [x] [Diretivas](./04-diretivas)
+- [ ] [Pipes e Routing](./05-pipes-routing)
