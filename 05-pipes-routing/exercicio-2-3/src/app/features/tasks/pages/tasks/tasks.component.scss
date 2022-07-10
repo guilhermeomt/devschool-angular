@@ -1,0 +1,43 @@
+.content {
+  flex: 2;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+  .add {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 60%;
+  }
+
+  .list {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+}
+
+input {
+  width: 60%;
+  padding: 0.5rem;
+  border-radius: 0.25rem;
+  border: 1px solid #c1c1c1;
+  margin-bottom: 1rem;
+}
+
+button {
+  padding: 0.5rem;
+  border-radius: 0.25rem;
+  border: 1px solid #c1c1c1;
+  margin-left: 1rem;
+  margin-bottom: 1rem;
+  cursor: pointer;
+
+  &.success {
+    background-color: #00b300;
+    color: #fff;
+  }
+}

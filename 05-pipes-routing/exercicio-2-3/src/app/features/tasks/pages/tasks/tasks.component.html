@@ -1,0 +1,17 @@
+<div class="layout">
+  <app-sidebar> </app-sidebar>
+  <main class="content">
+    <div class="add">
+      <input
+        type="text"
+        placeholder="Descrição da tarefa..."
+        class="form-control"
+      />
+      <button class="success" (click)="addTask()">Adicionar</button>
+    </div>
+    <div class="list">
+      <h2>Lista de Tarefas</h2>
+      <app-task-list></app-task-list>
+    </div>
+  </main>
+</div>
