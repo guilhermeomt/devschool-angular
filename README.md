@@ -22,4 +22,4 @@ Repositório destinado para o curso de desenvolvimento de aplicações web com A
 - [x] [Módulos](./02-modulos)
 - [x] [Data Binding](./03-data-binding)
 - [x] [Diretivas](./04-diretivas)
-- [ ] [Pipes e Routing](./05-pipes-routing)
+- [x] [Pipes e Routing](./05-pipes-routing)

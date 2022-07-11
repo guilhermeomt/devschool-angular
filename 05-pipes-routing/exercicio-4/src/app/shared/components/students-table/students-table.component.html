@@ -1,0 +1,25 @@
+<table>
+  <thead>
+    <tr>
+      <th>#</th>
+      <th>Nome</th>
+      <th>Valor da Mensalidade</th>
+      <th>Data do Último Pagamento</th>
+      <th>Data de Inclusão no Sistema</th>
+      <th>Ações</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let student of students">
+      <td>{{ student.id }}</td>
+      <td>{{ student.name }}</td>
+      <td>{{ student.fee | currency: "BRL" }}</td>
+      <td>{{ student.lastPaymentAt | date }}</td>
+      <td>{{ student.createdAt | date }}</td>
+      <td>
+        <button class="small submit">Editar</button>
+        <button class="small error">Excluir</button>
+      </td>
+    </tr>
+  </tbody>
+</table>
